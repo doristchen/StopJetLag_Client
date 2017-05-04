@@ -1,0 +1,2 @@
+C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\TripJetLagApp.UWP.csproj;x86
+C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp\TripJetLagApp.csproj;neutral

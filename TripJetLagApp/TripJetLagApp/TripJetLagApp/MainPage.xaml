@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:TripJetLagApp"
+             x:Class="TripJetLagApp.MainPage" Padding="10,20,5,10"
+             BackgroundColor="#6A9BB1">
+    <StackLayout HorizontalOptions="Center" Spacing="10" Padding="0,30,0,0">
+        <Image Source="logo.png" HorizontalOptions="Center"/>
+        <Label Text="TripJetLag" FontSize="Large" HorizontalTextAlignment="Center"/>
+        <StackLayout HorizontalOptions="Center" Spacing="10" Padding="0,40,0,0">
+            <Button x:Name="btnNote" Image="tripnote.png" 
+             Text="Your Trip Notes" FontSize="Medium"  TextColor="White" 
+             Clicked="OnbtnNote" BackgroundColor="Transparent"/>
+            <Button x:Name="btnAdvice" 
+            Text="Current Recommendation"  Image="recommendation.png" FontSize="Medium" 
+             TextColor="White" BackgroundColor="Transparent"
+             Clicked="OnbtnAdvice" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
