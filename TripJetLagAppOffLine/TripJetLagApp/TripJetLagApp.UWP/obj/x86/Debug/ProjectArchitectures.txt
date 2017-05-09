@@ -1,0 +1,2 @@
+C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagAppOffLine\TripJetLagApp\TripJetLagApp.UWP\TripJetLagAppOffLine.UWP.csproj;x86
+C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagAppOffLine\TripJetLagApp\TripJetLagApp\TripJetLagAppOffLine.csproj;neutral

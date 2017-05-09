@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TripJetLagApp.View.TripLegNotesCP"
+             Title="Trip Leg Notes"  Padding="20,20,20,20">
+    <StackLayout BackgroundColor="#6A9BB1" Padding="5,5,5,5">
+    <ListView x:Name="LegNoteListView" Header="Trip Leg Notes"
+                     ItemsSource="{Binding NoteGrouped}"
+              IsGroupingEnabled="true" GroupDisplayBinding="{Binding Key}">
+        <ListView.HeaderTemplate>
+            <DataTemplate>
+                <StackLayout Orientation="Horizontal"  HorizontalOptions="FillAndExpand"
+        	     VerticalOptions="FillAndExpand" BackgroundColor="#6A9BB1" >
+                    <Label Text="{Binding .}" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+            </DataTemplate>
+        </ListView.HeaderTemplate>
+        <ListView.GroupHeaderTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                     BackgroundColor="#6A9BB1" HeightRequest="50">
+                        <Label Text="{Binding Key}" FontSize="Medium" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.GroupHeaderTemplate>
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Vertical" BackgroundColor="#eee" Padding="10,0,0,0">
+                        <Label Text="{Binding Note}"
+                               FontSize="Medium"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+   </StackLayout>
+</ContentPage>

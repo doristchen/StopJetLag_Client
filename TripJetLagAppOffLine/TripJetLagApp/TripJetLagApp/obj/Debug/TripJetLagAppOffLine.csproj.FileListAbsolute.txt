@@ -1,0 +1,2 @@
+C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagC\TripJetLagApp\TripJetLagApp\obj\Debug\TripJetLagApp.dll.mdb
+C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagC\TripJetLagApp\TripJetLagApp\bin\Debug\TripJetLagApp.dll.mdb

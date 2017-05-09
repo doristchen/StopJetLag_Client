@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TripJetLagApp.View.TripAdvice">
+    
+    <ListView x:Name="AdviceListView" Header="Advice"
+              ItemsSource="{Binding AdviceGrouped}"
+              IsGroupingEnabled="true" GroupDisplayBinding="{Binding Key}">
+        <ListView.HeaderTemplate >
+            <DataTemplate>
+                <StackLayout Orientation="Horizontal" Padding="10,0,0,0"
+            	BackgroundColor="#eee">
+                    <Label Text="{Binding .}" FontSize="24"/>
+                </StackLayout>
+            </DataTemplate>
+        </ListView.HeaderTemplate>
+
+        <ListView.GroupHeaderTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand"
+                     BackgroundColor="#6A9BB1" HeightRequest="50" Padding="10,0,0,0">
+                         <Label Text="{Binding Key}" FontSize="Medium" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.GroupHeaderTemplate>
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout BackgroundColor="{Binding BKGColor}"
+                        Orientation="Horizontal" Padding="10,0,0,0">
+                        <Image Source="{Binding DisplayIcon}" VerticalOptions="Center"
+                               HeightRequest="45" WidthRequest="45"/>
+                        <StackLayout Orientation="Vertical" Padding="10" Spacing="5">
+                            <Label Text="{Binding Notification}"
+                                   Style="{DynamicResource ListItemTextStyle}"
+                                 FontSize="Medium"  VerticalTextAlignment="Center"/>
+                            <Label Text="{Binding AdviceText}" 
+                                 Style="{DynamicResource ListItemDetailTextStyle}" FontSize="Medium"
+                                   VerticalTextAlignment="Center"/>
+                        </StackLayout>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>

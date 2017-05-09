@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TripJetLagApp.View.TripLeg"
+             Title="Trip Leg" Padding="0,0,0,0">
+    <ListView x:Name="TripLegListView" Header="Trip Legs"
+              ItemsSource="{Binding Notes}"
+              ItemTapped="On_ItemTapped"
+			  ItemSelected="On_ItemSelected"
+              SeparatorColor="Black" SeparatorVisibility="Default">
+        <ListView.HeaderTemplate >
+            <DataTemplate>
+                <StackLayout Orientation="Horizontal" 
+                             HorizontalOptions="FillAndExpand"
+        	                 VerticalOptions="FillAndExpand"
+        	                 BackgroundColor="#6A9BB1" Padding="10" Spacing="5">
+                    <Label Text="{Binding .}" FontSize="Medium" HorizontalOptions="CenterAndExpand"/>
+                </StackLayout>
+            </DataTemplate>
+        </ListView.HeaderTemplate>
+        <ListView.ItemTemplate>
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout VerticalOptions="CenterAndExpand" BackgroundColor="#eeee" Padding="10" Spacing="5">
+                        <Label Text="{Binding ArrivalAirport}" 
+                                FontSize="Medium" FontAttributes="Bold"  HorizontalOptions="Center"/>
+                        <Label Text="{Binding DepartureDate}" 
+                                FontSize="Medium" HorizontalOptions="Center"/>
+                    </StackLayout>
+                </ViewCell>
+            </DataTemplate>
+        </ListView.ItemTemplate>
+    </ListView>
+</ContentPage>
