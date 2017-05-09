@@ -5,8 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 using TripJetLagApp.Service;
 using TripJetLagApp.View;
-using TripJetLagApp.ViewModel;
-using TripJetLagApp.Model;
 using Xamarin.Forms;
 
 namespace TripJetLagApp

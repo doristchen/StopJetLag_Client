@@ -13,16 +13,9 @@ namespace TripJetLagApp.Model
 
     public class CategoryStyle
     {
-        public Categories CategoryId;
-        public string DisplayIcon;
-        public string BackgroundColor;
-
-        public CategoryStyle(Categories CId, string Image, string Color)
-        {
-            CategoryId = CId;
-            DisplayIcon = Image;
-            BackgroundColor = Color;
-        }
+        public Categories CategoryId { get; set; }
+        public string DisplayIcon { get; set; }
+        public string BackgroundColor { get; set; }
     }
 
     public class AdviceStyle
@@ -30,18 +23,38 @@ namespace TripJetLagApp.Model
         public static CategoryStyle[] Category =
           new CategoryStyle[]
              {
-                new CategoryStyle (Categories.Watch, "watch.png", "#88FDA4"),
-                new CategoryStyle (Categories.Flight, "flight.png","#96CAEE" ),
-                new CategoryStyle (Categories.Sleep, "sleep.png","#EEEEEE" ),
-                new CategoryStyle (Categories.NoSleep, "nosleep.png","#EEEEEE"),
-                new CategoryStyle (Categories.Light, "light.png","#F7FF4A" ),
-                new CategoryStyle (Categories.NoLight, "nolight.png","#D6D6CF" ),
-                new CategoryStyle (Categories.Meal, "meal.png", "#EEEEEE"),
-                new CategoryStyle (Categories.Activity, "activity.png","#EEEEEE" ),
-                new CategoryStyle (Categories.Caffeine, "caffeine.png","#EEEEEE" ),
-                new CategoryStyle (Categories.Supplement, "supplement.png","#EEEEEE")
+                new CategoryStyle {
+                    CategoryId = Categories.Watch,
+                    DisplayIcon = "watch.png",
+                    BackgroundColor = "#88FDA4" },
+                new CategoryStyle {
+                    CategoryId = Categories.Flight,
+                    DisplayIcon = "flight.png",
+                    BackgroundColor = "#96CAEE" },
+                new CategoryStyle {CategoryId = Categories.Sleep,
+                    DisplayIcon = "sleep.png",
+                    BackgroundColor = "#EEEEEE" },
+                new CategoryStyle {CategoryId = Categories.NoSleep,
+                    DisplayIcon = "nosleep.png",
+                    BackgroundColor = "#EEEEEE" },
+                new CategoryStyle {CategoryId = Categories.Light,
+                    DisplayIcon = "light.png",
+                    BackgroundColor = "#F7FF4A" },
+                new CategoryStyle {CategoryId = Categories.NoLight,
+                    DisplayIcon = "nolight.png",
+                    BackgroundColor = "#D6D6CF" },
+                new CategoryStyle {CategoryId = Categories.Meal,
+                    DisplayIcon = "meal.png",
+                    BackgroundColor = "#EEEEEE" },
+                new CategoryStyle {CategoryId = Categories.Activity,
+                    DisplayIcon = "activity.png",
+                    BackgroundColor = "#EEEEEE" },
+                new CategoryStyle {CategoryId = Categories.Caffeine,
+                    DisplayIcon = "caffeine.png",
+                    BackgroundColor = "#EEEEEE" },
+                new CategoryStyle {CategoryId = Categories.Supplement,
+                    DisplayIcon = "supplement.png",
+                    BackgroundColor = "#EEEEEE" }
               };
-
-
     }
 }
