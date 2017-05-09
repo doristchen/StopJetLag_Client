@@ -10,19 +10,19 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>5fc11410-2891-4721-b4cf-cad873caf8bc</PackageIdentityName>
     <PackageIdentityPublisher>CN=dchen</PackageIdentityPublisher>
-    <IntermediateOutputPath>C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
+    <IntermediateOutputPath>C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\obj\x86\Debug\</IntermediateOutputPath>
     <RemoteDeploymentType></RemoteDeploymentType>
     <PackageRegistrationPath></PackageRegistrationPath>
     <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\TripJetLagApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\TripJetLagApp.UWP.exe">
       <PackagePath>entrypoint\TripJetLagApp.UWP.exe</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\dorisc\.nuget\packages\Microsoft.CSharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
@@ -385,174 +385,174 @@
     <AppxPackagedFile Include="C:\Users\dorisc\.nuget\packages\Xamarin.Forms.CarouselView\2.3.0-pre2\lib\uap10.0\Xamarin.Forms.CarouselView.dll">
       <PackagePath>Xamarin.Forms.CarouselView.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp\bin\Debug\TripJetLagApp.dll">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp\bin\Debug\TripJetLagApp.dll">
       <PackagePath>TripJetLagApp.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp\bin\Debug\Newtonsoft.Json.dll">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp\bin\Debug\Newtonsoft.Json.dll">
       <PackagePath>Newtonsoft.Json.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\activity.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\activity.png">
       <PackagePath>activity.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\caffeine.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\caffeine.png">
       <PackagePath>caffeine.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\flight.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\flight.png">
       <PackagePath>flight.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\light.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\light.png">
       <PackagePath>light.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\logo.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\logo.png">
       <PackagePath>logo.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\nolight.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\nolight.png">
       <PackagePath>nolight.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\nosleep.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\nosleep.png">
       <PackagePath>nosleep.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-100.png">
       <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-125.png">
       <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-150.png">
       <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\LockScreenLogo.scale-400.png">
       <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-125.png">
       <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-150.png">
       <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-125.png">
       <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-150.png">
       <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-125.png">
       <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-150.png">
       <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\StoreLogo.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\StoreLogo.png">
       <PackagePath>Assets\StoreLogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-100.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-125.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-125.png">
       <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-150.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-150.png">
       <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-200.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-400.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\recommendation.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\recommendation.png">
       <PackagePath>recommendation.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\sleep.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\sleep.png">
       <PackagePath>sleep.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\meal.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\meal.png">
       <PackagePath>meal.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\supplement.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\supplement.png">
       <PackagePath>supplement.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\tripnote.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\tripnote.png">
       <PackagePath>tripnote.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\watch.png">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\watch.png">
       <PackagePath>watch.png</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Properties\Default.rd.xml">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\TripJetLagApp.UWP.xr.xml">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\TripJetLagApp.UWP.xr.xml">
       <PackagePath>TripJetLagApp.UWP.xr.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
@@ -564,11 +564,11 @@
     <AppxPackagedFile Include="C:\Users\dorisc\.nuget\packages\Xamarin.Forms\2.3.4.224\lib\uap10.0\Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Properties\Xamarin.Forms.Platform.UAP.rd.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Ascend+\StopJetLag\SJL_Xamarin\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\Core\TripJetLagApp.UWP.exe">
+    <AppxPackagedFile Include="C:\Users\dorisc\Documents\Projects\StopJetLag_Client\TripJetLagApp\TripJetLagApp\TripJetLagApp.UWP\bin\x86\Debug\Core\TripJetLagApp.UWP.exe">
       <PackagePath>TripJetLagApp.UWP.exe</PackagePath>
     </AppxPackagedFile>
   </ItemGroup>
