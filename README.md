@@ -1,6 +1,6 @@
 
 
-# StopJetLag_Client
+# Trip JetLag_Client
 
 Using Xamarin.Forms allows for one UI code base for all three platforms (iOS, Android, and Windows) instead of multiple separate native UI apps. Also converting the StopJetLag separate shared files core logic solutions into one PCL core non-UI logic solution makes maintenance significantly easier and less error prone. Because Xamarin.Forms is primarily a XAML technology, the StopJetLag app made extensive use of the Model-View-View-Model (MVVM) design pattern. To avoid reinventing the wheel, these Plugins were added to the projects using NuGet.
 
